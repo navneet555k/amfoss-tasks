@@ -9,3 +9,4 @@ search.xpath('//a/div[@class="BNeawe vvjwJb AP7Wnd"]').each do  |top 10 search|
 	puts top 10 search.text 
 end
 
+ 
