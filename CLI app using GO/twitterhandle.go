@@ -17,8 +17,8 @@ func main() {
 
 	flag.Parse()
 
-	config := oauth1.NewConfig("FaMHhif2wNxjcbzTKSX4jCem3", "OZ6M3O3e82Ms3MLuirDvUVqWkx1knaiSwjUmAOx5wJWu2OanMd")
-	token := oauth1.NewToken("1212951844583903232-rWBbPESBpebIMOXRtkzmgw3suUZ0V5", "NmlJcogw86HBVKbqALtZO56jrhVRmEc4gbUUN5zlzVjT5")
+	config := oauth1.NewConfig("", "")
+	token := oauth1.NewToken("", "")
 	httpClient := config.Client(oauth1.NoContext, token)
 
 	client := twitter.NewClient(httpClient)
