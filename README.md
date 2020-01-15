@@ -19,4 +19,4 @@ Task - 9 :--1)Setup a Simple Personal Website:abouthosting webpage from github f
 Task - 13 Project Euler:-- 1)logic development
 
 
-Task - 14 :-- Bandit	1)linux commands
+Task - 14 :-- Bandit	1)linux commands.
