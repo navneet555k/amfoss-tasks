@@ -1,6 +1,6 @@
-#amFOSS task submission semester 2
+# amFOSS task submission semester 2
 
-##you can find the details about task mentioned below -:
+## you can find the details about task mentioned below -:
 
 
 | Tasks        | status        | 
